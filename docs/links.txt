@@ -1,0 +1,5 @@
+
+Setting up PostgreSQL on Ubuntu and PgAdmin
+https://www.youtube.com/watch?v=uq-QtZ5OdRM
+
+
