@@ -2,4 +2,7 @@
 Setting up PostgreSQL on Ubuntu and PgAdmin
 https://www.youtube.com/watch?v=uq-QtZ5OdRM
 
+Setting up HA using 3 nodes on Oracle Linux
+https://www.youtube.com/watch?v=86hVQn0VTo4&list=PLpm71E6Qw2tCIakNQNQKoxhSOJP3PpNhQ&index=4
+
 
